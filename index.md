@@ -51,7 +51,7 @@ for scientific publications, and research analytics. He has served as a member o
 several top-tier journals. Finally, he has been teaching courses in undergraduate and postgraduate level in academic institutions in Greece and Cyprus.</p>
 
 ### Dimitris Sacharidis 
-<p align="justify"><img src="img/dimsacharidis.jpg" alt="hi" class="inline" align="left" style="width:150px; height:150px; margin: 5px;"/>Dimitris Sacharidis is an assistant professor at the Web and Information Technologies lab at the Université Libre De Bruxelles (ULB). Prior to that he was an assistant 
+<img src="img/dimsacharidis.jpg" alt="hi" class="inline" align="left" style="width:110px; height:150px; margin: 5px;"/> <p align="justify">Dimitris Sacharidis is an assistant professor at the Web and Information Technologies lab at the Université Libre De Bruxelles (ULB). Prior to that he was an assistant 
 professor at the Technical University of Vienna, and a Marie Skłodowska Curie fellow at the “Athena” Research Center and at the Hong Kong University of Science and Technology. 
 He has a Diploma and a PhD in Computer Engineering from the National Technical University of Athens, and a MSc in Computer Science from the University of Southern California.
 In his research, he is interested in topics related to data science and data engineering.</p>
