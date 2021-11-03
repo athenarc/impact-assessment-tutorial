@@ -44,7 +44,7 @@ common pitfalls.</p>
 ## Presenters
 
 ### Thanasis Vergoulis 
-<p align="justify"><img src="img/vergoulis.png" alt="hi" class="inline" align="left" style="width:150px; height:180px;"/>Thanasis Vergoulis is a Scientific Associate at IMSI, Athena Research Center in Greece. He received his diploma in Computer Engineering and Informatics from the Univ. 
+<p align="justify"><img src="img/vergoulis.png" alt="hi" class="inline" align="left" style="width:150px; height:150px;"/>Thanasis Vergoulis is a Scientific Associate at IMSI, Athena Research Center in Greece. He received his diploma in Computer Engineering and Informatics from the Univ. 
 of Patras and his PhD in Computer Science from NTU of Athens, under the supervision of Prof. Timos Sellis. He has been involved in several EU and national ICT projects 
 related to big data, scientific data management, open science, and linked data. His research interests also involve bioinformatics, text mining & information retrieval 
 for scientific publications, and research analytics. He has served as a member of the program or organizing committee for several CS conferences and as a reviewer for 
