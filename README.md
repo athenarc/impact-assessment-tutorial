@@ -1,9 +1,9 @@
-# impact-assessment-tutorial
+# Impact Assessment Tutorial
 
 ## Description
 
 <p align="justify">The number of scientific publications has been increasing in recent decades and estimations are that this growth will continue. 
-Until very recently most data on scientific publications was proprietary and hidden in data silos of majorcompanies, such as []. 
+Until very recently most data on scientific publications was proprietary and hidden in data silos of major companies. 
 However, in recent years, a number of initiatives from the open science movement, such as Open Citations (<a href="https://opencitations.net/index/coci">COCI</a>), 
 <a href="https://www.crossref.org/">Crossref</a>, and the (recently discontinued) <a href="https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/">
 Microsoft Academic Graph</a> have led to vast amounts of such data being now publicly available. Hence, a variety of cross-domain scholarly knowledge graphs (SKGs),
@@ -44,7 +44,7 @@ common pitfalls.</p>
 ## Presenters
 
 ### Thanasis Vergoulis 
-<p align="justify"><img src="img/vergoulhs.jpg" alt="hi" class="inline" align="left" style="width:150px; height:180px;"/>Thanasis Vergoulis is a Scientific Associate at IMSI, Athena Research Center in Greece. He received his diploma in Computer Engineering and Informatics from the Univ. 
+<p align="justify"><img src="img/vergoulis.png" alt="hi" class="inline" align="left" style="width:150px; height:180px;"/>Thanasis Vergoulis is a Scientific Associate at IMSI, Athena Research Center in Greece. He received his diploma in Computer Engineering and Informatics from the Univ. 
 of Patras and his PhD in Computer Science from NTU of Athens, under the supervision of Prof. Timos Sellis. He has been involved in several EU and national ICT projects 
 related to big data, scientific data management, open science, and linked data. His research interests also involve bioinformatics, text mining & information retrieval 
 for scientific publications, and research analytics. He has served as a member of the program or organizing committee for several CS conferences and as a reviewer for 
