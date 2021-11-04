@@ -50,10 +50,6 @@
   * Open research challenges 
   * Conclusions 
 
-## Video Teaser
-
-Our video teaser can be found here!
-
 ## Presenters
 
 ### Thanasis Vergoulis 
