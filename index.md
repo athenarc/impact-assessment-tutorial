@@ -52,7 +52,7 @@
 
 ## Video Teaser
 
-<iframe width="560" height="315" src="https://youtu.be/fq1VXLRs_A8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Impact Assessment Tutorial Teaser](https://img.youtube.com/vi/fq1VXLRs_A8/0.jpg)](https://www.youtube.com/watch?v=fq1VXLRs_A8)
 
 ## Presenters
 
