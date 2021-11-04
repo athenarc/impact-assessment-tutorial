@@ -41,6 +41,9 @@ common pitfalls.</p>
 
 * Video Teaser
 
+Uploading VID_20211104_183902.mp4…
+
+
 ## Presenters
 
 ### Thanasis Vergoulis 
