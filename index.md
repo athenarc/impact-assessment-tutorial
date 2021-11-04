@@ -2,47 +2,57 @@
 
 ## Description
 
-<p align="justify">The number of scientific publications has been increasing in recent decades and estimations are that this growth will continue. 
-Until very recently most data on scientific publications was proprietary and hidden in data silos of majorcompanies. 
-However, in recent years, a number of initiatives from the open science movement, such as Open Citations (<a href="https://opencitations.net/index/coci">COCI</a>), 
-<a href="https://www.crossref.org/">Crossref</a>, and the (recently discontinued) <a href="https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/">
-Microsoft Academic Graph</a> have led to vast amounts of such data being now publicly available. Hence, a variety of cross-domain scholarly knowledge graphs (SKGs),
-both from the academic community, but also industry-driven ones, have been produced, striving to collect, clean, integrate, organise, and publish research objects and 
-metadata. Such resources are catalysing the creation and provision of advanced exploration and knowledge extraction services for 
-scholarly content, with the aim to boost research productivity, shorten the time from hypotheses to concrete results, and form the 
-basis of a powerful toolbox for informed and fact-based decisions to support important workflows of researchers and other stakeholders 
-(e.g., research policymakers).</p>
-
-<p align="justify">The availability of the aforementioned data opens new possibilities for impact assessment of scientific publications. 
-Assessing the impact of scientific publications is a task with a wide range potential applications. For example, it can help identify 
-the most fruitful research areas and hence aid in research financing decisions. Further, hiring committees can take such measures into 
-account as additional information in the assessment of applicants in academic and/or R\&D positions. Apart from such administrative 
-uses, quantifying scientific paper impact also has a range of practical applications. For example, quantitative measures can be 
-incorporated in academic search engines, facilitating publication search and reading prioritization by interested parties.</p>
+<p align="justify">
+  Nowadays, the vast amount of existing published research works creates major obstacles regarding the traditional knowledge discovery 
+  required by common research processes and other relevant tasks. However, at the same time, the increased popularity of the Open Science movement, makes 
+  large amounts of scholarly metadata available through open Scholarly Knowledge Graphs (SKGs), paving the way for reliable research impact assessment 
+  processes, that can alleviate the aforementioned issue. The main objective of the tutorial is to inform and educate the audience about the opportunities 
+  and challenges that open SKGs create in the field of research impact assessment, presenting the respective state-of-the-art and highlighting common pitfalls.
+</p>
 
 ## Impact Assessment in Scientific Knowledge Graphs
 
-<p align="justify">Assessing the impact of scientific publications is not a straightforward task. First of all, a number of approaches 
-to deal with this problem have ben proposed in the literature, without it being clear which approach is the most suitable and under
-which conditions. Further, scientific impact should not be examined through a limited set of measures, since scienific impact
-can be examined in many different ways. Hence, larger set of impact measures can capture a wider range of impact aspects, providing 
-a more comprehensive picture about a publication's impact, as further evidenced by the <a href="https://sfdora.org/read">Declaration on 
-Research Assessment</a>.</p>
+<p align="justify">
+  The availability of scholarly metadata cannot by itself guarantee the reliability of research impact procedures. 
+  Since the landscape of the available measures for impact assessment is extremely crowded, with many of them sharing 
+  similar key concepts and ideas, it is really difficult for researchers, developers, and other interested stakeholders 
+  to identify which are the strengths and weaknesses of each approach and which measures are more suitable for the impact 
+  assessment services they target to offer. This is extremely important since it is now widely accepted that research impact 
+  is a complex notion, having many, and not always correlated, aspects, and that different measures capture 
+  impact from diverse perspectives, each of which could be more important in different applications. Hence the 
+  selection of the appropriate research impact measures should be done with caution. 
+</p>
 
-<p align="justify">In this context, the main objective of the tutorial will be to inform and educate the audience about the opportunities and 
-challenges that open Scholarly Knowledge Graphs (SKGs) create in research impact assessment, presenting the respective state of the art and highlighting 
-common pitfalls.</p>
+<p align="justify">
+  The main objective of the tutorial is to inform and educate the audience about the opportunities and challenges that open Scholarly 
+  Knowledge Graphs (SKGs) create in research impact assessment, presenting the respective state-of-the-art impact measures that can be 
+  calculated, analysing their strengths, weaknesses, and proper uses, and highlighting the most common pitfalls. Although the tutorial 
+  will discuss impact from various perspectives, the focus will be given on the different aspects of citation-based, scientific impact. 
+  The tutorial will be concluded with the demonstration of the use of different impact measures in practical real-world applications and 
+  the discussion of the current open challenges and the well-anticipated needs of the research community at large regarding reliable processes 
+  for impact assessment. 
+</p>
 
 ## Tutorial Material
 
 1. Part A: Introduction
+  * History 
+  * Motivation and applications
+  * Open SKGs
+  * Multi-perspective impact assessment
 2. Part B: Research impact assessment approaches
+  * Background
+  * Classification of approaches
+  * Notable approaches
+  * Strengths and weaknesses
 3. Part C: Aftermath
+  * Demonstrating applications 
+  * Open research challenges 
+  * Conclusions 
 
-* Video Teaser
+## Video Teaser
 
-Uploading VID_20211104_183902.mp4…
-
+Our video teaser can be found here!
 
 ## Presenters
 
