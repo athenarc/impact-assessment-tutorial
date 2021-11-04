@@ -35,17 +35,17 @@
 
 ## Tutorial Material
 
-1. Part A: Introduction
+1. Part A: <a href="">Introduction</a>
   * History 
   * Motivation and applications
   * Open SKGs
   * Multi-perspective impact assessment
-2. Part B: Research impact assessment approaches
+2. Part B: <a href="">Research impact assessment approaches</a>
   * Background
   * Classification of approaches
   * Notable approaches
   * Strengths and weaknesses
-3. Part C: Aftermath
+3. Part C: <a href="">Aftermath</a>
   * Demonstrating applications 
   * Open research challenges 
   * Conclusions 
