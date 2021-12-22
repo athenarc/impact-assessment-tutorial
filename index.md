@@ -1,5 +1,3 @@
-# Impact Assessment Tutorial
-
 ## Description
 
 <p align="justify">
@@ -10,7 +8,7 @@
   and challenges that open SKGs create in the field of research impact assessment, presenting the respective state-of-the-art and highlighting common pitfalls.
 </p>
 
-## Impact Assessment in Scientific Knowledge Graphs
+## Impact Assessment in SKGs
 
 <p align="justify">
   The availability of scholarly metadata cannot by itself guarantee the reliability of research impact procedures. 
