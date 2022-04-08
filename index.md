@@ -43,7 +43,7 @@
   * Classification of approaches
   * Notable approaches
   * Strengths and weaknesses
-3. Part C: <a href="">Aftermath</a>
+3. Part C: [Aftermath](https://docs.google.com/presentation/d/1talmGgS-aShqVea0XWJg6dK3-HJ-8wUw2SryH1wbbRk/edit?usp=sharing)
   * Demonstrating applications 
   * Open research challenges 
   * Conclusions 
