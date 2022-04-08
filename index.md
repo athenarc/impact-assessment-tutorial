@@ -38,7 +38,7 @@
   * Motivation and applications
   * Open SKGs
   * Multi-perspective impact assessment
-2. Part B: <a href="">Research impact assessment approaches</a>
+2. Part B: [Research impact assessment approaches](https://docs.google.com/presentation/d/15KGk1bK7mLjv34DjwAc7fFarCCGiqOwsI5P1Ki4jHW8/edit?usp=sharing)
   * Background
   * Classification of approaches
   * Notable approaches
