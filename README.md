@@ -35,7 +35,7 @@ common pitfalls.</p>
 
 ## Tutorial Material
 
-1. Part A: Introduction
+1. Part A: [Introduction](https://docs.google.com/presentation/d/1VZD2b0v9tycFmLKM5B6vHUp5KWyei1ioXkiANHVXHtU/edit?usp=sharing)
 2. Part B: Research impact assessment approaches
 3. Part C: Aftermath
 
